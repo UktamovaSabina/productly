@@ -278,12 +278,12 @@ header {
     color: #2F281E;
 }
 
-.card__info__btns {
+.card__info-btns {
     display: flex;
     gap: 4px;
 }
 
-.card__info__btns div {
+.card__info-btns div {
     padding-left: 14px;
     padding-right: 14px;
     font-weight: 400;
@@ -333,13 +333,13 @@ header {
     box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.05);
 }
 
-.two-cards__first_info {
+.two-cards__first-info {
     padding-left: 33px;
     padding-right: 35px;
     padding-bottom: 26px;
 }
 
-.two-cards__first_info h3 {
+.two-cards__first-info h3 {
     font-weight: 700;
     font-size: 24px;
     line-height: 34px;
@@ -353,13 +353,13 @@ header {
     box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.05);  
 }
 
-.two-cards__second__info {
+.two-cards__second-info {
     padding-left: 33px;
     padding-right: 34px;
     padding-bottom: 26px;
 }
 
-.two-cards__second__info h3 {
+.two-cards__second-info h3 {
     font-weight: 700;
     font-size: 24px;
     line-height: 34px;
@@ -368,7 +368,7 @@ header {
     margin-bottom: 29px;
 }
 
-.two-cards__second__info div {
+.two-cards__second-info div {
     display: inline-block;
     padding-left: 14px;
     padding-right: 14px; 
@@ -429,7 +429,7 @@ header {
     line-height: 26px;
 }
 
-.kathy_card, .alexandra_card, .melani_card {
+.kathy__card, .alexandra__card, .melani__card {
     position: relative;
 }
 
@@ -439,7 +439,7 @@ header {
     right: -100px;
 }
 
-.kathy_card a, .alexandra_card a, .melani_card a {
+.kathy__card a, .alexandra__card a, .melani__card a {
     text-decoration: none;
     font-weight: 400;
     font-size: 14px;
